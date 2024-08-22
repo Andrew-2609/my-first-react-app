@@ -1,12 +1,3 @@
-import Card from "./Card";
-
-function App() {
-  return (
-    <>
-      <Card />
-      <Card />
-    </>
-  );
-}
+function App() {}
 
 export default App;
