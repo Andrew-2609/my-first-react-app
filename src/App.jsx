@@ -1,7 +1,3 @@
-import Button from "./Button";
-
-function App() {
-  return <Button />;
-}
+function App() {}
 
 export default App;
