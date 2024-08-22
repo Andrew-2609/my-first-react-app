@@ -8,7 +8,7 @@ function Card() {
         alt="My avatar profile picture"
         src={profilePicture}
       />
-      <h2>Ndrewcoding</h2>
+      <h2 className="card-title">Ndrewcoding</h2>
       <p>Software Engineer and History Nerd</p>
     </div>
   );
