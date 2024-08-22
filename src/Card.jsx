@@ -9,7 +9,7 @@ function Card() {
         src={profilePicture}
       />
       <h2 className="card-title">Ndrewcoding</h2>
-      <p>Software Engineer and History Nerd</p>
+      <p className="card-text">Software Engineer and History Nerd</p>
     </div>
   );
 }
