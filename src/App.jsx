@@ -1,7 +1,3 @@
-import ProfilePicture from "./ProfilePicture";
-
-function App() {
-  return <ProfilePicture />;
-}
+function App() {}
 
 export default App;
