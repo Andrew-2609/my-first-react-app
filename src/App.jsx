@@ -1,7 +1,3 @@
-import UserGreeting from "./UserGreeting";
-
-function App() {
-  return <UserGreeting isLoggedIn={true} />;
-}
+function App() {}
 
 export default App;
