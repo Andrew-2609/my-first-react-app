@@ -71,6 +71,7 @@ function ToDoList() {
           placeholder="Enter a task..."
           value={newTask}
           onChange={handleInputChange}
+          onKeyDown={(e) => e.key === "Enter" && addTask()}
         />
         <button className="add-button" onClick={addTask}>
           Add
