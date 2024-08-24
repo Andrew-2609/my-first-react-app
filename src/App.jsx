@@ -1,11 +1,3 @@
-import ComponentA from "./ComponentA";
-
-function App() {
-  return (
-    <>
-      <ComponentA />
-    </>
-  );
-}
+function App() {}
 
 export default App;
